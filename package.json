@@ -13,7 +13,7 @@
     "buffer-crc32": ">=0.2.1",
     "mongodb": ">=1.4.8",
     "debug": ">=1.0.2",
-    "bufferext": "https://github.com/jseidelin/bufferext.git",
+    "extbuffer": "https://github.com/jseidelin/extbuffer.git",
     "hash-jenkins": "https://github.com/jseidelin/hash-jenkins.git",
     "dataschema": "https://github.com/jseidelin/dataschema.git"
   }
